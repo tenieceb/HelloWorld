@@ -6,7 +6,7 @@ This program outputs the text "Hello World!" to the console.
 
 The purpose of this project is to fully understand the fundamentals of setting up and running a C# console application using the .NET framework and Visual Studio Code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=dVeLbVUI7JY)
 
 # Development Environment
 
